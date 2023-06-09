@@ -1,5 +1,6 @@
 # InfernoSplitsTracker
 Python program to track inferno splits and find averages and more for runs
+
 To use add folder path of txt file location 
 
 Things to add:
