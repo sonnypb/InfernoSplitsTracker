@@ -1,2 +1,2 @@
 # InfernoSplitsTracker
-python program to track inferno splits and find averages for runs
+Python program to track inferno splits and find averages and more for runs
