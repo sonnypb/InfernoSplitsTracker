@@ -1,7 +1,8 @@
 import os, datetime
 from collections import Counter
 # folder path for inferno stats txt file locations
-folder_path = "C:/Users/Jakeb/.runelite/inferno-stats/a pb/inferno"
+# add own folder path here where txt files are saved
+folder_path = ""
 
 
 # Get a list of all files in the folder
